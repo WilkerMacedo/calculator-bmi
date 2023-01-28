@@ -1,0 +1,79 @@
+body {
+  background-color: #D6EAF8;
+}
+
+h1 {
+  font-size: 4rem;
+  font-family: "Arial";
+  color: #0000cd;
+  margin: 5% 20% 1% 32%;
+}
+
+h3 {
+  color: #0000cd;
+  margin: 2% 20% 0 22%;
+}
+
+.subtitle {
+  color: #0000cd;
+  margin: 1% 20% 1% 35%;
+}
+
+h5 {
+  color: #0000cd;
+  margin: 1% 20% 1% 32%;
+}
+
+form {
+  margin: 3% 20% 1% 27%;
+}
+
+button {
+  margin: 3% 20% 0 35%;
+}
+
+.picture {
+  width: 30%;
+  position: absolute;
+  left: 67%;
+  bottom: 8%;
+}
+
+.foot {
+  background-color: #afeeee;
+  padding: 0 0 1% 0;
+}
+
+.credits {
+  padding-top: 2%;
+  margin: 3% 20% 1% 42%;
+  color: #0000cd;
+}
+
+a {
+  margin: 7% 20% 1% 43%;
+}
+
+/* bmi exclusive style down */
+.bmiform {
+  margin: 3% 20% 1% 33%;
+}
+
+.bmibutton {
+  margin: 3% 20% 0 21%;
+}
+
+.bmih5 {
+  margin: 1% 20% 1% 14%;
+  text-align: center;
+}
+
+.bmih3 {
+  margin: 1% 20% 1% 14%;
+  text-align: center;
+}
+
+p {
+  margin: 1% 20% 1% 35%;
+  color: #0000cd;
+}
